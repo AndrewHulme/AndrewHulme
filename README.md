@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Andrew! 👋
+
+A highly motivated software developer, recently trained at Makers Academy.
+
+I graduated with a Master's in Mechanical Engineering from the University of Bristol where I was first introduced to the world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
 
 <!--
 **AndrewHulme/AndrewHulme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
