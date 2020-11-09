@@ -10,7 +10,7 @@ A highly motivated software developer, recently trained at Makers Academy, with 
 - 💼 &nbsp; Previous work experience in engineering consultancies as a Mechanical Engineer
 - 👥 &nbsp; Regularly attend React/coding meetups to network and keep up-to-date with recent trends and projects
 - ♥️  &nbsp; Interests in music, travelling, cycling and volunteering
-- 👇 &nbsp; Take a look at my [CV](https://github.com/AndrewHulme/CV) for full tech stack and to browse some of my projects! 
+- 👉 &nbsp; Take a look at my [CV](https://github.com/AndrewHulme/CV) for full tech stack and to browse some of my projects! 
 
 
 
