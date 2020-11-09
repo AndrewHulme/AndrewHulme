@@ -1,8 +1,16 @@
 ### Hi, I'm Andrew! 👋
 
-A highly motivated software developer, recently trained at Makers Academy.
+A highly motivated software developer, recently trained at Makers Academy, with a background in Mechanical Engineering.
 
-I graduated with a Master's in Mechanical Engineering from the University of Bristol where I was first introduced to the world of coding. After university I worked in the engineering sphere for several years, building on a number of competencies such as problem solving, communication, leadership and team working skills. I am now keen to apply this wealth of skills and experience to a new-found passion in software development.
+<h3> 👨🏻‍💻 More About Me </h3>
+- 💻 &nbsp; JavaScript/React/Node.js/Express.js | Ruby/Ruby on Rails | MongoDB/PostgreSQL/Firebase  
+- 🧪 &nbsp; Cypress/RSpec/Capybara/Jasmine
+- 🎓 &nbsp; MEng Mechanical Engineering from University of Bristol | Graduate of Makers Academy Bootcamp
+- 💼 &nbsp; Previous work experience in engineering consultancies as a Mechanical Engineer
+- :busts_in_silhouette: &nbsp; Regularly attend React/coding meetups to network and keep up-to-date with recent trends and projects
+- 👇 &nbsp; Take a look at my CV and browse some of my projects!
+
+
 
 <!--
 **AndrewHulme/AndrewHulme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
