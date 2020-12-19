@@ -1,6 +1,10 @@
 ### Hi, I'm Andrew 👋
 
-A full-stack developer, recently trained at Makers Academy, with a background in Mechanical Engineering.
+A full-stack developer, recently trained at Makers Academy, specialising in JavaScript and React.
+
+Previously graduated with a Master's in Mechanical Engineering from the University of Bristol, and worked in engineering consultancies, including Ramboll, for over 3 years.
+
+Currently building 2 full-stack projects and regularly attend tech meetups e.g. 'React London' and 'Migrating Waitrose.com to React'.
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
