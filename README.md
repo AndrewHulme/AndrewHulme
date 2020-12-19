@@ -9,7 +9,7 @@ Currently building 2 full-stack projects and regularly attend meetups e.g. 'Reac
 <h3> 👨🏻‍💻 More About Me </h3>
 
 - 💻 &nbsp; JavaScript/React/Redux/Node.js/Express.js | Ruby/Ruby on Rails | MongoDB/PostgreSQL/Firebase  
-- 🧪 &nbsp; Cypress/RSpec/Capybara/Jasmine
+- 🧪 &nbsp; Cypress/Jasmine/RSpec/Capybara
 - 🎓 &nbsp; MEng Mechanical Engineering from University of Bristol | Graduate of Makers Academy Bootcamp
 - 💼 &nbsp; Previous work experience in engineering consultancies as a Mechanical Engineer for over 3 years
 - 👥 &nbsp; Regularly attend React/coding meetups to network and keep up-to-date with recent trends and projects
