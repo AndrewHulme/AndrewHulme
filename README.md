@@ -4,7 +4,9 @@ A full-stack developer, recently trained at Makers Academy, specialising in Java
 
 Previously graduated with a Master's in Mechanical Engineering from the University of Bristol, and worked in engineering consultancies, including Ramboll, for over 3 years.
 
-Currently building 2 full-stack projects and regularly attend meetups e.g. 'React London' and 'Migrating Waitrose.com to React'.
+Currently building 2 full-stack projects and regularly attend meetups e.g. 'React London' and 'Migrating Waitrose.com to React'. 
+
+<br />
 
 <h3> More About Me </h3>
 
