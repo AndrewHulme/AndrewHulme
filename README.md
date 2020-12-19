@@ -1,10 +1,10 @@
-### Hi, I'm Andrew! 👋
+### Hi, I'm Andrew 👋
 
-A junior full-stack developer, recently trained at Makers Academy, with a background in Mechanical Engineering.
+A full-stack developer, recently trained at Makers Academy, with a background in Mechanical Engineering.
 
 <h3> 👨🏻‍💻 More About Me </h3>
 
-- 💻 &nbsp; JavaScript/React/Node.js/Express.js | Ruby/Ruby on Rails | MongoDB/PostgreSQL/Firebase  
+- 💻 &nbsp; JavaScript/React/Redux/Node.js/Express.js | Ruby/Ruby on Rails | MongoDB/PostgreSQL/Firebase  
 - 🧪 &nbsp; Cypress/RSpec/Capybara/Jasmine
 - 🎓 &nbsp; MEng Mechanical Engineering from University of Bristol | Graduate of Makers Academy Bootcamp
 - 💼 &nbsp; Previous work experience in engineering consultancies as a Mechanical Engineer for over 3 years
