@@ -1,13 +1,23 @@
-### Hi, I'm Andrew 👋
+### About Me
 
 A full-stack developer trained at Makers Academy specialising in JavaScript and React.
 
 Previously graduated with a Master's in Mechanical Engineering from the University of Bristol, and worked in engineering consultancies, including Ramboll, for over 3 years.
 
-Currently building 2 full-stack projects and regularly attend meetups e.g. 'React London' and 'Migrating Waitrose.com to React'. 
+Currently working part-time developing the front-end website for a music company, building 2 full-stack projects, and regularly attending meetups e.g. 'React London' and 'Migrating Waitrose.com to React'. 
+
+### Tech Stack
+- Languages: JavaScript, TypeScript, Ruby, SQL, GraphQL, MATLAB, HTML/CSS
+- Technologies: React, Redux, Node.js, Ruby on Rails, jQuery, npm, Express.js, Sinatra, Bootstrap, Tailwind CSS, Material-UI, AWS (S3, Cloud9)
+- Testing: Cypress, Jest, Enzyme, Jasmine, RSpec, Capybara 
+- Databases: PostgreSQL, MongoDB, Firebase
+- DevOps: Travis CI, Heroku, Surge, Docker
+- Version Control: GitHub
 
 
-<h3> More About Me </h3>
+
+
+<!-- <h3> More About Me </h3>
 
 - 💻 &nbsp; JavaScript/React/Redux/Node.js/Express.js | Ruby/Ruby on Rails | MongoDB/PostgreSQL/Firebase  
 - 🧪 &nbsp; Cypress/Jasmine/RSpec/Capybara
@@ -15,7 +25,7 @@ Currently building 2 full-stack projects and regularly attend meetups e.g. 'Reac
 - 💼 &nbsp; Previous work experience in engineering consultancies as a Mechanical Engineer for over 3 years
 - 👥 &nbsp; Regularly attend React/coding meetups to network and keep up-to-date with recent trends and projects
 - ♥️  &nbsp; Interests in music, travelling, cycling and volunteering
-- 👉 &nbsp; Take a look at my [CV](https://github.com/AndrewHulme/CV) for full tech stack and to browse some of my projects 
+- 👉 &nbsp; Take a look at my [CV](https://github.com/AndrewHulme/CV) for full tech stack and to browse some of my projects  -->
 
 <div align="center">
 <a href="https://andrewhulme.github.io/"><img src="images/www.png" width="55" alt="My website"></a>
