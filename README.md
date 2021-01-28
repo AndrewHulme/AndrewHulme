@@ -14,7 +14,14 @@ Currently working part-time developing the front-end website for a music company
 - DevOps: Travis CI, Heroku, Surge, Docker
 - Version Control: GitHub
 
+### Key Projects
 
+| Project | Description | Links | Technologies | Image |
+|:-:        |:-:          |:-:   |:-:           |:-:           |
+| Psych | Current work in progress. Full-stack application based on the game 'Cards Against Humanity'. Group project of two team members. | [GitHub](https://github.com/AndrewHulme/Psych) | React, TypeScript, Redux, GraphQL, Ruby on Rails, Cypress, Jest/Enzyme, RSpec, React Router, Docker, Material-UI, HTML, CSS | <a href="https://github.com/AndrewHulme/Psych" target="blank"><img width="1000" src="images/psych.png" alt="psych" border="0" /></a> |
+| Financial Times | Front-end application which displays news items for schools represented by School Spider. Solo project. | [Deployed](https://sstechtest.herokuapp.com/schools) <br> [GitHub](https://github.com/AndrewHulme/SSTechTest) | React, Cypress, Jest/Enzyme, Origami Components, React Router, React Image Lightbox, HTML, CSS | <a href="https://sstechtest.herokuapp.com/schools" target="blank"><img width="1000" src="images/ss.png" alt="ss" border="0" /></a> |
+| Swipe and Shop | Current work in progress. Full-stack application used to buy and sell items in a 'Tinder' style. Group project of three team members. | [Deployed](https://swipe-and-shop.herokuapp.com/) <br> [GitHub](https://github.com/GarethWoodman/swipe_and_shop) | React, Node.js, MongoDB, Express.js, JavaScript, Mongoose, Cypress, Bootstrap, HTML, CSS | <a href="https://github.com/GarethWoodman/swipe_and_shop" target="blank"><img width="1000" src="images/sas.png" alt="sas" border="0" /></a> |
+| ThereAndBack | Full-stack lockdown inspired application used to generate circular routes for a given distance and starting location. Group project of four team members. | [Deployed](https://thereandback.surge.sh/) <br> [GitHub](https://github.com/AndrewHulme/route_planner) <br> [Presentation (4 minute mark)](https://lnkd.in/dk9HyWh) | React, Firebase, Cypress, Istanbul, Leaflet, Location IQ API, Open Route Service API, GraphHopper API, Bootstrap, HTML, CSS | <a href="https://thereandback.surge.sh/" target="blank"><img width="1000" src="images/thereandback.png" alt="thereandback" border="0" /></a> |
 
 
 <!-- <h3> More About Me </h3>
