@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://andrewhulme.github.io/"><img src="images/www.png" width="55" alt="My website"></a>
+<a href="https://linkedin.com/in/andrew-hulme"><img src="images/linkedin.png" width="64" alt="LinkedIn"></a>
+</div>
+
 ### About Me
 
 A full-stack developer trained at Makers Academy specialising in JavaScript and React.
@@ -41,10 +46,6 @@ Currently working part-time developing the front-end website for a music company
 - ♥️  &nbsp; Interests in music, travelling, cycling and volunteering
 - 👉 &nbsp; Take a look at my [CV](https://github.com/AndrewHulme/CV) for full tech stack and to browse some of my projects  -->
 
-<div align="center">
-<a href="https://andrewhulme.github.io/"><img src="images/www.png" width="55" alt="My website"></a>
-<a href="https://linkedin.com/in/andrew-hulme"><img src="images/linkedin.png" width="64" alt="LinkedIn"></a>
-</div>
 
 
 <!--
